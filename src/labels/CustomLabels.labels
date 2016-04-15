@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Account_Donor_Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Account Donor Name</shortDescription>
+        <value>Collect Donation NGO</value>
+    </labels>
+    <labels>
+        <fullName>Campaign_Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Campaign Name</shortDescription>
+        <value>TRY Health Campaign</value>
+    </labels>
+    <labels>
+        <fullName>Donation_Record_Type</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Donation Record Type</shortDescription>
+        <value>Donation Record</value>
+    </labels>
+    <labels>
+        <fullName>Installment_Record_Type</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Installment Record Type</shortDescription>
+        <value>Installment Record</value>
+    </labels>
+    <labels>
+        <fullName>Role_Type</fullName>
+        <categories>For Campaign Member</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Role Type</shortDescription>
+        <value>Volunteer</value>
+    </labels>
+    <labels>
+        <fullName>Success_Message</fullName>
+        <categories>Success message for proper form submission</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success Message</shortDescription>
+        <value>Your admission application has been submitted successfully.</value>
+    </labels>
+    <labels>
+        <fullName>Test_Custom_Label</fullName>
+        <categories>Manipilating Custom Text according to the language selected.</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Test Custom Label</shortDescription>
+        <value>This is the custom text meant for checking the multi lingual feature possible by custom labels.</value>
+    </labels>
+</CustomLabels>
